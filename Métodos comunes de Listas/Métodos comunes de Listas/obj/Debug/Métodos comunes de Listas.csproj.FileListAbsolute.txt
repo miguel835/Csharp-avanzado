@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Métodos comunes de Listas\Métodos comunes de Listas\bin\Debug\Métodos comunes de Listas.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Métodos comunes de Listas\Métodos comunes de Listas\bin\Debug\Métodos comunes de Listas.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Métodos comunes de Listas\Métodos comunes de Listas\bin\Debug\Métodos comunes de Listas.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Métodos comunes de Listas\Métodos comunes de Listas\obj\Debug\Métodos comunes de Listas.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Métodos comunes de Listas\Métodos comunes de Listas\obj\Debug\Métodos comunes de Listas.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Métodos comunes de Listas\Métodos comunes de Listas\obj\Debug\Métodos comunes de Listas.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Métodos comunes de Listas\Métodos comunes de Listas\obj\Debug\Métodos comunes de Listas.pdb

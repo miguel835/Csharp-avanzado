@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Introducción a listas\Introducción a listas\bin\Debug\Introducción a listas.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Introducción a listas\Introducción a listas\bin\Debug\Introducción a listas.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Introducción a listas\Introducción a listas\bin\Debug\Introducción a listas.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Introducción a listas\Introducción a listas\obj\Debug\Introducción a listas.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Introducción a listas\Introducción a listas\obj\Debug\Introducción a listas.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Introducción a listas\Introducción a listas\obj\Debug\Introducción a listas.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Introducción a listas\Introducción a listas\obj\Debug\Introducción a listas.pdb

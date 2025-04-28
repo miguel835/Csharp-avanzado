@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Sentencia Foreach\Sentencia Foreach\bin\Debug\Sentencia Foreach.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Sentencia Foreach\Sentencia Foreach\bin\Debug\Sentencia Foreach.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Sentencia Foreach\Sentencia Foreach\bin\Debug\Sentencia Foreach.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Sentencia Foreach\Sentencia Foreach\obj\Debug\Sentencia Foreach.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Sentencia Foreach\Sentencia Foreach\obj\Debug\Sentencia Foreach.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Sentencia Foreach\Sentencia Foreach\obj\Debug\Sentencia Foreach.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Sentencia Foreach\Sentencia Foreach\obj\Debug\Sentencia Foreach.pdb
