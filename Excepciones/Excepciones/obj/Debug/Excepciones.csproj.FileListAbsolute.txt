@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Excepciones\Excepciones\obj\Debug\Excepciones.pdb

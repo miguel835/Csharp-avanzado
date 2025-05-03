@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tuplas\Tuplas\bin\Debug\Tuplas.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tuplas\Tuplas\bin\Debug\Tuplas.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tuplas\Tuplas\bin\Debug\Tuplas.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tuplas\Tuplas\obj\Debug\Tuplas.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tuplas\Tuplas\obj\Debug\Tuplas.pdb

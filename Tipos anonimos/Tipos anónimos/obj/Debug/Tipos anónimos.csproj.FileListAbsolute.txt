@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tipos anónimos\Tipos anónimos\bin\Debug\Tipos anónimos.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tipos anónimos\Tipos anónimos\bin\Debug\Tipos anónimos.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tipos anónimos\Tipos anónimos\bin\Debug\Tipos anónimos.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tipos anónimos\Tipos anónimos\obj\Debug\Tipos anónimos.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tipos anónimos\Tipos anónimos\obj\Debug\Tipos anónimos.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tipos anónimos\Tipos anónimos\obj\Debug\Tipos anónimos.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\Tipos anónimos\Tipos anónimos\obj\Debug\Tipos anónimos.pdb

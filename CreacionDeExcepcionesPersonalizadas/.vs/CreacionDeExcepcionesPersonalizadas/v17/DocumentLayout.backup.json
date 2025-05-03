@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\CreacionDeExcepcionesPersonalizadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32267EBC-3D65-45EB-8C7E-765A667F0D86}|CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas.csproj|c:\\users\\miguel diaz\\documents\\workspace\\csharp-avanzado\\creaciondeexcepcionespersonalizadas\\creaciondeexcepcionespersonalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32267EBC-3D65-45EB-8C7E-765A667F0D86}|CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas.csproj|solutionrelative:creaciondeexcepcionespersonalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32267EBC-3D65-45EB-8C7E-765A667F0D86}|CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas.csproj|c:\\users\\miguel diaz\\documents\\workspace\\csharp-avanzado\\creaciondeexcepcionespersonalizadas\\creaciondeexcepcionespersonalizadas\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32267EBC-3D65-45EB-8C7E-765A667F0D86}|CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas.csproj|solutionrelative:creaciondeexcepcionespersonalizadas\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32267EBC-3D65-45EB-8C7E-765A667F0D86}|CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas.csproj|c:\\users\\miguel diaz\\documents\\workspace\\csharp-avanzado\\creaciondeexcepcionespersonalizadas\\creaciondeexcepcionespersonalizadas\\errores\\carroinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32267EBC-3D65-45EB-8C7E-765A667F0D86}|CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas.csproj|solutionrelative:creaciondeexcepcionespersonalizadas\\errores\\carroinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarroInvalidoException.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas\\Errores\\CarroInvalidoException.cs",
+              "RelativeDocumentMoniker": "CreacionDeExcepcionesPersonalizadas\\Errores\\CarroInvalidoException.cs",
+              "ToolTip": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas\\Errores\\CarroInvalidoException.cs",
+              "RelativeToolTip": "CreacionDeExcepcionesPersonalizadas\\Errores\\CarroInvalidoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:31:48.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas\\Carro.cs",
+              "RelativeDocumentMoniker": "CreacionDeExcepcionesPersonalizadas\\Carro.cs",
+              "ToolTip": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas\\Carro.cs",
+              "RelativeToolTip": "CreacionDeExcepcionesPersonalizadas\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:15:12.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas\\Program.cs",
+              "RelativeDocumentMoniker": "CreacionDeExcepcionesPersonalizadas\\Program.cs",
+              "ToolTip": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\CreacionDeExcepcionesPersonalizadas\\CreacionDeExcepcionesPersonalizadas\\Program.cs*",
+              "RelativeToolTip": "CreacionDeExcepcionesPersonalizadas\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:08:03.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
