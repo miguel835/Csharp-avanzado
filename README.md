@@ -35,8 +35,8 @@ Se explican los métodos más comunes y más usado de las listas.
 
 ### 3. Tipos anónimos y tuplas
 
-### [Tipos anonimos](https://github.com/miguel835/Csharp-avanzado/tree/main/Tipos%20anonimos)
-Se explica lo que son los tipos anonimos, como crearlos y cuando se usan mayormente 
+### [Tipos anónimos](https://github.com/miguel835/Csharp-avanzado/tree/main/Tipos%20anonimos)
+Se explica lo que son los tipos anónimos, como crearlos y cuando se usan mayormente 
 
 ### [Tuplas](https://github.com/miguel835/Csharp-avanzado/tree/main/Tuplas)
 Definición de las tuplas, como crearlas, las diferentes maneras de crearlas, un ejemplo real de su uso
