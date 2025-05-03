@@ -30,3 +30,20 @@ tipo de un tipo de dato de una clase People
 
 ### [Métodos comunes de Listas](https://github.com/miguel835/Csharp-avanzado/tree/main/M%C3%A9todos%20comunes%20de%20Listas)
 Se explican los métodos más comunes y más usado de las listas.  
+
+### 2. LINQ 
+
+### 3. Tipos anónimos y tuplas
+
+### [Tipos anonimos](https://github.com/miguel835/Csharp-avanzado/tree/main/Tipos%20anonimos)
+Se explica lo que son los tipos anonimos, como crearlos y cuando se usan mayormente 
+
+### [Tuplas](https://github.com/miguel835/Csharp-avanzado/tree/main/Tuplas)
+Definición de las tuplas, como crearlas, las diferentes maneras de crearlas, un ejemplo real de su uso
+
+### 4. Excepciones y excepciones personalizadas 
+
+### [Excepciones](https://github.com/miguel835/Csharp-avanzado/tree/main/Excepciones)
+Qué es una excepción, porque son necesarias en un programa, como crearlas y más
+### [Excepciones personalizadas](https://github.com/miguel835/Csharp-avanzado/tree/main/CreacionDeExcepcionesPersonalizadas)
+Aquí se explica como crear un excepción personalizada. 
