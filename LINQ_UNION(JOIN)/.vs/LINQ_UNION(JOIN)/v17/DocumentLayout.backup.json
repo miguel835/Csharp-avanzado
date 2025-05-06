@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{E84925DA-EB96-4C67-93F0-25106F38E087}|LINQ_UNION(JOIN)\\LINQ_UNION(JOIN).csproj|solutionrelative:linq_union(join)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84925DA-EB96-4C67-93F0-25106F38E087}|LINQ_UNION(JOIN)\\LINQ_UNION(JOIN).csproj|c:\\users\\miguel diaz\\documents\\workspace\\csharp-avanzado\\linq_union(join)\\linq_union(join)\\telefonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E84925DA-EB96-4C67-93F0-25106F38E087}|LINQ_UNION(JOIN)\\LINQ_UNION(JOIN).csproj|C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQ_UNION(JOIN)\\linq_union(join)\\telefonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84925DA-EB96-4C67-93F0-25106F38E087}|LINQ_UNION(JOIN)\\LINQ_UNION(JOIN).csproj|solutionrelative:linq_union(join)\\telefonos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84925DA-EB96-4C67-93F0-25106F38E087}|LINQ_UNION(JOIN)\\LINQ_UNION(JOIN).csproj|c:\\users\\miguel diaz\\documents\\workspace\\csharp-avanzado\\linq_union(join)\\linq_union(join)\\pa\u00EDs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E84925DA-EB96-4C67-93F0-25106F38E087}|LINQ_UNION(JOIN)\\LINQ_UNION(JOIN).csproj|C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQ_UNION(JOIN)\\linq_union(join)\\pa\u00EDs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E84925DA-EB96-4C67-93F0-25106F38E087}|LINQ_UNION(JOIN)\\LINQ_UNION(JOIN).csproj|solutionrelative:linq_union(join)\\pa\u00EDs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "LINQ_UNION(JOIN)\\Pa\u00EDs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T18:02:02.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T18:02:02.199Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "LINQ_UNION(JOIN)\\Telefonos.cs",
               "ToolTip": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQ_UNION(JOIN)\\LINQ_UNION(JOIN)\\Telefonos.cs",
               "RelativeToolTip": "LINQ_UNION(JOIN)\\Telefonos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T18:01:55.163Z",
               "EditorCaption": ""
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "LINQ_UNION(JOIN)\\Program.cs",
               "ToolTip": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQ_UNION(JOIN)\\LINQ_UNION(JOIN)\\Program.cs*",
               "RelativeToolTip": "LINQ_UNION(JOIN)\\Program.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAA8wCQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T17:49:19.713Z",
               "EditorCaption": ""

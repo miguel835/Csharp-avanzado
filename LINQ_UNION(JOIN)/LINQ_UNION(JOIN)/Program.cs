@@ -72,7 +72,22 @@ namespace LINQ_UNION_JOIN_
            foreach (var celular in telefonosConContinentes)
                 Console.WriteLine($"{celular.Name} {celular.País} {celular.Continente}");
 
-           //Es lo mismo que hace SQL en una base de datos, pero esto es hecho con LINQ
+            //Es lo mismo que hace SQL en una base de datos, pero esto es hecho con LINQ
+
+            //***********************************************
+            //Group by
+            //**********************************************
+            var agrupación = from c in telefonos
+                             group c by c.País into cAgrupados //agrupamos c a través del país y usamos la palabra into 
+                             select new //para así guardar un identificador temporal los resultados del group
+                             {
+                                 Nombre = cAgrupados.Key,
+                                 Contar = cAgrupados.Count()
+                             };
+
+            Console.WriteLine("************GROUP BY********************");
+            foreach (var t in agrupación)
+                Console.WriteLine($"{t.Nombre} {t.Contar}");
         }
     }
 }
