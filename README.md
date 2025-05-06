@@ -31,7 +31,13 @@ tipo de un tipo de dato de una clase People
 ### [Métodos comunes de Listas](https://github.com/miguel835/Csharp-avanzado/tree/main/M%C3%A9todos%20comunes%20de%20Listas)
 Se explican los métodos más comunes y más usado de las listas.  
 
-### 2. LINQ 
+### 2. LINQ nivel básico
+Guía de como usar la librería LINQ 
+## [Linq (Select - Where - Orden By)](https://github.com/miguel835/Csharp-avanzado/tree/main/LINQSeleccionarBuscarOrdenar)
+Guía de como usar el Select, Where, Orden By, Orden By descending 
+## [Linq (Join - Group By)](https://github.com/miguel835/Csharp-avanzado/tree/main/LINQ_UNION(JOIN))
+Guía de como usar el Join y el Group By
+
 
 ### 3. Tipos anónimos y tuplas
 
