@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQ_UNION(JOIN)\LINQ_UNION(JOIN)\bin\Debug\LINQ_UNION(JOIN).exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQ_UNION(JOIN)\LINQ_UNION(JOIN)\bin\Debug\LINQ_UNION(JOIN).exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQ_UNION(JOIN)\LINQ_UNION(JOIN)\bin\Debug\LINQ_UNION(JOIN).pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQ_UNION(JOIN)\LINQ_UNION(JOIN)\obj\Debug\LINQ_UNION(JOIN).csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQ_UNION(JOIN)\LINQ_UNION(JOIN)\obj\Debug\LINQ_UNION(JOIN).csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQ_UNION(JOIN)\LINQ_UNION(JOIN)\obj\Debug\LINQ_UNION(JOIN).exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQ_UNION(JOIN)\LINQ_UNION(JOIN)\obj\Debug\LINQ_UNION(JOIN).pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQSeleccionarBuscarOrdenar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AF2C69-E315-46D2-9428-93DBA2BADC54}|LINQSeleccionarBuscarOrdenar\\LINQSeleccionarBuscarOrdenar.csproj|c:\\users\\miguel diaz\\documents\\workspace\\csharp-avanzado\\linqseleccionarbuscarordenar\\linqseleccionarbuscarordenar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AF2C69-E315-46D2-9428-93DBA2BADC54}|LINQSeleccionarBuscarOrdenar\\LINQSeleccionarBuscarOrdenar.csproj|solutionrelative:linqseleccionarbuscarordenar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AF2C69-E315-46D2-9428-93DBA2BADC54}|LINQSeleccionarBuscarOrdenar\\LINQSeleccionarBuscarOrdenar.csproj|c:\\users\\miguel diaz\\documents\\workspace\\csharp-avanzado\\linqseleccionarbuscarordenar\\linqseleccionarbuscarordenar\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AF2C69-E315-46D2-9428-93DBA2BADC54}|LINQSeleccionarBuscarOrdenar\\LINQSeleccionarBuscarOrdenar.csproj|solutionrelative:linqseleccionarbuscarordenar\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Autos.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQSeleccionarBuscarOrdenar\\LINQSeleccionarBuscarOrdenar\\Autos.cs",
+              "RelativeDocumentMoniker": "LINQSeleccionarBuscarOrdenar\\Autos.cs",
+              "ToolTip": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQSeleccionarBuscarOrdenar\\LINQSeleccionarBuscarOrdenar\\Autos.cs",
+              "RelativeToolTip": "LINQSeleccionarBuscarOrdenar\\Autos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:48:29.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQSeleccionarBuscarOrdenar\\LINQSeleccionarBuscarOrdenar\\Program.cs",
+              "RelativeDocumentMoniker": "LINQSeleccionarBuscarOrdenar\\Program.cs",
+              "ToolTip": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\Csharp-avanzado\\LINQSeleccionarBuscarOrdenar\\LINQSeleccionarBuscarOrdenar\\Program.cs",
+              "RelativeToolTip": "LINQSeleccionarBuscarOrdenar\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAwwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:38:30.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

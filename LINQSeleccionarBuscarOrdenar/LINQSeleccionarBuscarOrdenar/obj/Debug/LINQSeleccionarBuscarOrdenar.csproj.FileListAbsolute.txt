@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQSeleccionarBuscarOrdenar\LINQSeleccionarBuscarOrdenar\bin\Debug\LINQSeleccionarBuscarOrdenar.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQSeleccionarBuscarOrdenar\LINQSeleccionarBuscarOrdenar\bin\Debug\LINQSeleccionarBuscarOrdenar.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQSeleccionarBuscarOrdenar\LINQSeleccionarBuscarOrdenar\bin\Debug\LINQSeleccionarBuscarOrdenar.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQSeleccionarBuscarOrdenar\LINQSeleccionarBuscarOrdenar\obj\Debug\LINQSeleccionarBuscarOrdenar.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQSeleccionarBuscarOrdenar\LINQSeleccionarBuscarOrdenar\obj\Debug\LINQSeleccionarBuscarOrdenar.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQSeleccionarBuscarOrdenar\LINQSeleccionarBuscarOrdenar\obj\Debug\LINQSeleccionarBuscarOrdenar.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\Csharp-avanzado\LINQSeleccionarBuscarOrdenar\LINQSeleccionarBuscarOrdenar\obj\Debug\LINQSeleccionarBuscarOrdenar.pdb
